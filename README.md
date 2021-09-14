@@ -1,3 +1,3 @@
 # Password-Generator
-# Tecnology :  Python
+###Tecnology :  Python
 Generador de contraseñas
